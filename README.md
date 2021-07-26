@@ -5,8 +5,16 @@ Provides an Automator App to create a new empty file in Finder
 
 # Instructions
 
-1. Simply download the zipped file `New Text File.app.zip`.
+1. Download the zipped file [`New Text File.app.zip`](New%20Text%20File.app.zip).
 2. Open the file to unzip it.
 3. Command+drag the `New Text File.app` icon to your Finder window's toolbar.
+
+✅ Done!
+
+# Usage
+
+1. Tap the "New Text File" icon in your Finder toolbar.
+2. A prompt shows up to enter the filename (including the file extension). The default is `README.md`.
+3. When you confirm with "OK", a new empty file with the specified name is created in your current folder loation.
 
 ✅ Done!
