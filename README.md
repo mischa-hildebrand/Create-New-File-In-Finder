@@ -27,7 +27,7 @@ Provides an Automator App to create a new empty file in Finder
 
 ✅ Done!
 
-# Note
+# Important
 
 The app file was created with Automator and is not signed. For that reason, macOS won't let you open the app by default.
 
