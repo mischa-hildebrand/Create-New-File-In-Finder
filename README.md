@@ -26,3 +26,14 @@ Provides an Automator App to create a new empty file in Finder
 3. When you confirm with "OK", a new empty file with the specified name is created in your current folder loation.
 
 ✅ Done!
+
+# Note
+
+The app file was created with Automator and is not signed. For that reason, macOS won't let you open the app by default.
+
+![Screen Shot 2021-08-23 at 11 19 38](https://user-images.githubusercontent.com/11684330/130422933-aae4c9bd-8e3b-4f43-90da-c41eeb649e1d.png)
+
+When you get a security warning after trying to create a new file for the first time, open System Preferences ▶︎ Security & Privacy and click `Open Anyway`.
+
+<img width="726" alt="security_permission" src="https://user-images.githubusercontent.com/11684330/130422698-ef3e33e2-3abd-4a14-bb1f-168cc360e15f.png">
+
