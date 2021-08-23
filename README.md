@@ -6,12 +6,15 @@ Provides an Automator App to create a new empty file in Finder
 # Setup
 
 1. Download the zipped file [`New Text File.zip`](https://github.com/mischa-hildebrand/Create-New-File-In-Finder/raw/main/New%20Text%20File.zip) and unzip it.
-2. Right-click the file icon of `New Text File.app` and click "Get Info".
-3. Drag the icon file `new_file_icon.png` onto the Automator icon in the upper left corner.
+2. Open the file `new_file_icon.png` in Preview and copy the image (Command+C).
+3. Right-click the file icon of `New Text File.app` and click "Get Info".
+4. Select the app icon in the upper-left corner and paste the new icon (Command+V).
 
-   ![how_to_replace_the_icon](https://user-images.githubusercontent.com/11684330/130417903-f23bffc5-7268-4b55-854a-269da02e2af0.png)
+   <img width="151" alt="replace_icon_flow" src="https://user-images.githubusercontent.com/11684330/130421376-e3900321-1b11-4fd8-9d31-cfe21efe56b1.png">
 
-4. Command+drag the `New Text File.app` icon to your Finder window's toolbar.
+5. Command+drag the `New Text File.app` icon to your Finder window's toolbar.
+
+   <img width="336" alt="add_icon_to_toolbar_flow" src="https://user-images.githubusercontent.com/11684330/130421866-21acb3e4-f805-4d94-a01a-9b180de52574.png">
 
 
 ✅ Done!
